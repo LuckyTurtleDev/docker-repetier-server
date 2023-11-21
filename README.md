@@ -1,3 +1,7 @@
+# ⚠️ repo moved ⚠️
+
+This repo is no loger active. The image was moved to [LuckyTurtleDev/docker-images](https://github.com/LuckyTurtleDev/docker-images/tree/main/dockerfiles/repetier-server).
+
 # docker-repetier-server
 
 Repetier Server from [repetier-server.com](https://www.repetier-server.com/download-repetier-server/) in a Docker based on Debian.
